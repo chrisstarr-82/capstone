@@ -23,7 +23,7 @@ There were two models:
 - Votes that unified Republicans: yes vote on the crime bill - bill passed, yes vote on physician fee freeze bill - bill didn't pass
 - Democrats generally had more mixed votes
 - The El Salvador aid bill, physician fee freeze bill, education spending, adoption of the budget resolution stand out as partisan in EDA
-- There are clearly two classifications of votes. So the divide was Republican vs Democrat, not subgroups within the parties.
+- There are clearly two classifications of votes. So the divide was Republican vs Democrat, or conservative vs. liberal, not subgroups within the parties or some other kind of grouping. However, some conservative Democrats were grouped with Republicans in the cluster model. This most likely reflects the characteristics of political parties during the particular time period of the dataset.
 - The Random Forest model predicted who was a Republican and who was a Democrat equally well and did a good job.
 - The greatest partisan divide even in 1984 was on health care policy. The budget resolution tends to be an expression of party priorities and was partisan enough that votes on it were a top predictor of who was a Republican or Democrat.
 
