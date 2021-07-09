@@ -54,6 +54,9 @@ There were two models:
 - There are 16 bills, a limited number. The selection process for the bills was important and was a major limitation. These were 16 key votes identified by the Congressional Quarterly Almanac.
 - This is data for only one year
 - The votes marked '?' fall into multiple categories
+    - Voted present because of conflict of interest or other reason
+    - “Did not vote or otherwise make a position known”
+
 
 # Data Dictionary
 
